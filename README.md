@@ -1,16 +1,13 @@
 ### Zoo application
 
 
-## Frotend CRUD Animal records
+## Frontend CRUD for Animal records
 
 Pages
 
-/
-  - Homepage for viewing list of animals
-/add-animal
-  - Add a new animal
-/animal/{id}
-  - View, edit, or delete an animal record
+  * / - Homepage for viewing list of animals
+  * /add-animal - Add a new animal
+  * /animal/{id} - View, edit, or delete an animal record. Expects an animal ID in the URL
 
 
 
