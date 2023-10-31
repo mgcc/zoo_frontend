@@ -1,0 +1,9 @@
+span.label {
+  font-weight: bold;
+}
+
+
+span.arrow {
+  font-size: large;
+  cursor: pointer;
+}

@@ -1,0 +1,12 @@
+# TODO LIST
+_____________________________
+
+
+[X] Client side sorting
+[X] Server side filtering
+[X] API integration (Frontend)
+[X] Editing in Detail page
+[X] Backend test case
+[X] Frontend test case
+[X] Make alerts auto dismiss
+[X] Add conservation status to fields and table
